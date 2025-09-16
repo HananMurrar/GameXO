@@ -1,4 +1,4 @@
-### XO game project
+### XO game 
 
 Its simple react project that implements XO game 
 
