@@ -1,6 +1,6 @@
 ### XO game project
 
-Its simple react project
+Its simple react project that implements XO game 
 
 Run the development server in terminal: npm run dev<br>
 To start playing, open your browser and go to: http://localhost:3000
